@@ -7,7 +7,7 @@ import {
   ChannelDetail,
   SearchFeed,
 } from "./components";
-
+import "./index.css"
 const App = () => (
   <BrowserRouter>
     <Box sx={{ backgroundColor: "#000" }}>
